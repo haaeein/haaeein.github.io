@@ -96,6 +96,23 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_awards %}
+      <!-- begin Awards -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Awards</h2>
+        </header>
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for award in site.data.awards %}
+            <li>{{ award.description }}, {{ award.year}} (award ${{ award.award }})</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+      <!-- end Awards -->
+      {% endif %}
+
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
