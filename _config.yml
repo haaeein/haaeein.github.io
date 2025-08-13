@@ -23,7 +23,7 @@ resume_contact_email:           "qpwoei4916@gmail.com"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 # display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi! I'm interested in system security, including software security, bug finding and exploit generation. Currently, I concentrate on patch generation using LLM.</p>"
+resume_header_intro: "<p>Hi! I'm an integrated MS-PhD student in the KAIST Hacking Lab. My hacking journey began in 2022 when I was admitted to the program, and I was immediately captivated by the field. This fascination deepened as I discovered a bug in the Chromium browser and developed n-day exploit.<br><br>Since the rise of large language models, I've been particularly interested in applying AI to security tasks. From 2023 to 2025, I was part of Team Atlanta in the AIxCC competition, where I developed a patching agent. These days, my primary focus remains on AI-driven security research.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
