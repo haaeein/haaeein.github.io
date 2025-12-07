@@ -1,2 +1,3 @@
 #Bug reports
+- description: "CVE-2025-40275 NULL pointer dereference in Linux kernel ALSA USB-audio"
 - description: "CVE-2023-0696 Type confusion in V8 (reward $7K)"
