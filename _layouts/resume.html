@@ -96,6 +96,23 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for pub in site.data.publications %}
+            <li><b style="font-size: 1.1em;">{% if pub.url %}<a href="{{ pub.url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</b><br><span style="font-size: 0.9em;">{{ pub.authors }}</span><br><span style="font-size: 0.9em;"><i>{{ pub.venue }}</i>, {{ pub.year }}.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
       {% if site.resume_section_awards %}
       <!-- begin Awards -->
       <section class="content-section">
