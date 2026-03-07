@@ -1,6 +1,6 @@
 #Bug reports
 - description: "CVE-2026-27114 Infinite loop in NanaZip ROMFS parser"
-- description: "CVE-2026-27014 Infinite loop and stack overflow in NanaZip ROMFS parser"
+- description: "CVE-2026-27014 Stack overflow in NanaZip ROMFS parser"
 - description: "CVE-2026-26282 Heap out-of-bounds read in NanaZip .NET Single File parser"
 - description: "CVE-2026-26269 Stack buffer overflow in Vim NetBeans integration"
 - description: "CVE-2026-26054 Heap out-of-bounds read in SumatraPDF MOBI header parser"
