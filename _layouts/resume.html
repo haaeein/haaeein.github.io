@@ -260,7 +260,7 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for talk in site.data.talks %}
-            <li>{{ talk.title }}, {{ talk.event }}, {{ talk.location }}, {{ talk.date }}.</li>
+            <li><b style="font-size: 1.1em;">{{ talk.title }}</b>{% if talk.presenters %}<br><span style="font-size: 0.9em;">{{ talk.presenters }}</span>{% endif %}<br><span style="font-size: 0.9em;"><i>{{ talk.event }}</i>, {{ talk.location }}.</span></li>
             {% endfor %}
           </ul>
         </div>
