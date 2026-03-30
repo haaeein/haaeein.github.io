@@ -7,4 +7,4 @@
 - description: "CVE-2026-25920 Heap out-of-bounds read in SumatraPDF MOBI decompressor"
 - description: "CVE-2026-25961 Improper certificate validation in SumatraPDF update mechanism"
 - description: "CVE-2025-40275 NULL pointer dereference in Linux kernel ALSA USB-audio"
-- description: "CVE-2023-0696 Type confusion in V8 (reward $7K)"
+- description: "CVE-2023-0696 Type confusion in V8"
