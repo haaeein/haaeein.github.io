@@ -1,4 +1,5 @@
 #Bug reports
+- description: "CVE-2026-5939  Use after free in Foxit PDF Reader"
 - description: "CVE-2026-27114 Infinite loop in NanaZip ROMFS parser"
 - description: "CVE-2026-27014 Stack overflow in NanaZip ROMFS parser"
 - description: "CVE-2026-26282 Heap out-of-bounds read in NanaZip .NET Single File parser"
@@ -7,4 +8,4 @@
 - description: "CVE-2026-25920 Heap out-of-bounds read in SumatraPDF MOBI decompressor"
 - description: "CVE-2026-25961 Improper certificate validation in SumatraPDF update mechanism"
 - description: "CVE-2025-40275 NULL pointer dereference in Linux kernel ALSA USB-audio"
-- description: "CVE-2023-0696 Type confusion in V8"
+- description: "CVE-2023-0696  Type confusion in V8"
