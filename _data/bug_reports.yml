@@ -1,4 +1,5 @@
 #Bug reports
+- description: "CVE-2026-40362 Heap-based Buffer Overflow in Microsoft Office Excel"
 - description: "CVE-2026-5939  Use after free in Foxit PDF Reader"
 - description: "CVE-2026-27114 Infinite loop in NanaZip ROMFS parser"
 - description: "CVE-2026-27014 Stack overflow in NanaZip ROMFS parser"
