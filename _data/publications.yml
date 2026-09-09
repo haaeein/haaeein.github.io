@@ -1,3 +1,8 @@
+- title: "PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair"
+  authors: "Wonyoung Kim*, Seunggi Min*, Minjae Gwon, <b>Haein Lee</b>, Dowoo Baik, Hyeon Heo, Minjae Lee, Min Woo Baek, Yonghwi Jin, Younggi Park, Yunjae Choi, Taesoo Kim, Sangdon Park, Insu Yun"
+  venue: "ACSAC"
+  year: 2026
+
 - title: "ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System"
   authors: "Taesoo Kim, HyungSeok Han, Soyeon Park, Dae R. Jeong, Dohyeok Kim, Dongkwan Kim, Eunsoo Kim, Jiho Kim, Joshua Wang, Kangsu Kim, Sangwoo Ji, Woosun Song, Hanqing Zhao, Andrew Chin, Gyejin Lee, Kevin Stevens, Mansour Alharthi, Yizhuo Zhai, Cen Zhang, Joonun Jang, Yeongjin Jang, Ammar Askar, Dongju Kim, Fabian Fleischer, Jeongin Cho, Junsik Kim, Kyungjoon Ko, Insu Yun, Sangdon Park, Dowoo Baik, <b>Haein Lee</b>, Hyeon Heo, Minjae Gwon, Minjae Lee, Minwoo Baek, Seunggi Min, Wonyoung Kim, Yonghwi Jin, Younggi Park, Yunjae Choi, Jinho Jung, Gwanhyun Lee, Junyoung Jang, Kyuheon Kim, Yeonghyeon Cha, Youngjoon Kim"
   venue: "arXiv"
